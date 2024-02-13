@@ -1,0 +1,63 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+
+}
+
+.logo-link {
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.11111;
+letter-spacing: -0.03em;
+color: #111;
+}
+
+.logo-span {
+font-family: "Montserrat", sans-serif;
+font-style: italic;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.11111;
+letter-spacing: -0.03em;
+color: #111;
+}
+
+.header-list {
+
+}
+
+.header-item {
+
+}
+
+.header-link {
+font-family: "Montserrat", sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14286;
+letter-spacing: -0.02em;
+color: #111;
+}
+
+.header-social {
+
+}
+
+.social-item {
+
+}
+
+.social-link {
+
+}
